@@ -1,1 +1,1 @@
-Python program that can read PDF's and convert that information into a Pandas Dataframe to manipulate and analyze in Python
+A Python script that can read PDF's and convert that information into a Pandas Dataframe for manipulation and analysis
